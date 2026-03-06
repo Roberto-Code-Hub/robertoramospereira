@@ -33,7 +33,7 @@ Aqui você encontrará projetos relacionados a:
 
 ## 📬 Contato
 
-- LinkedIn: (coloque seu LinkedIn aqui)
+- LinkedIn: linkedin.com/in/roberto-ramos-pereira
 - GitHub: https://github.com/robertoramospereira
 
 ---
