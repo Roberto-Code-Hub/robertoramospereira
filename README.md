@@ -37,15 +37,10 @@ Neste repositório você encontrará projetos relacionados a:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoramospereira&show_icons=true&theme=dark)
-
----
 
 ## 📬 Contato
 
-- 💼 LinkedIn: (coloque seu LinkedIn aqui)
+- 💼 LinkedIn: linkedin.com/in/roberto-ramos-pereira
 - 💻 GitHub: https://github.com/robertoramospereira
 
 ---
