@@ -1,41 +1,55 @@
-# Roberto Ramos Pereira
+# 👋 Olá, eu sou Roberto Ramos Pereira
 
-🎓 Estudante de Ciência de Dados e Inteligência Artificial no IBMEC.
+🎓 Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC.  
+💻 Interessado em **Análise de Dados, Machine Learning e Desenvolvimento de Software**.  
+📊 Buscando transformar **dados em decisões e soluções inteligentes**.
 
-Este repositório contém meus projetos relacionados a programação, análise de dados, machine learning e desenvolvimento web. Aqui documento minha jornada de aprendizado e compartilho os projetos que desenvolvo durante meus estudos e práticas pessoais.
+---
 
 ## 🚀 Sobre mim
 
-- 📊 Estudante de Ciência de Dados e Inteligência Artificial no IBMEC
-- 💻 Interesse em Análise de Dados, Machine Learning e Tecnologia
-- 📈 Apaixonado por transformar dados em insights e soluções
-- 🌎 Sempre aprendendo novas ferramentas e tecnologias
+- 🎓 Graduando em Ciência de Dados e IA – IBMEC
+- 💡 Interesse em Data Science, Inteligência Artificial e Tecnologia
+- 📚 Sempre aprendendo novas ferramentas e linguagens
+- 📈 Focado em desenvolver projetos práticos e inovadores
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Python
-- C++
-- HTML
-- CSS
-- Git & GitHub
-- Análise de Dados
-- Machine Learning (em aprendizado)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 📂 Projetos
 
-Aqui você encontrará projetos relacionados a:
+Neste repositório você encontrará projetos relacionados a:
 
-- Análise de Dados
-- Programação
-- Desenvolvimento Web
-- Projetos Acadêmicos
-- Experimentos Pessoais
+- 📊 Análise de Dados
+- 🤖 Machine Learning
+- 💻 Programação
+- 🌐 Desenvolvimento Web
+- 🎓 Projetos acadêmicos
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoramospereira&show_icons=true&theme=dark)
+
+---
 
 ## 📬 Contato
 
-- LinkedIn: linkedin.com/in/roberto-ramos-pereira
-- GitHub: https://github.com/robertoramospereira
+- 💼 LinkedIn: (coloque seu LinkedIn aqui)
+- 💻 GitHub: https://github.com/robertoramospereira
 
 ---
+
+⭐ Obrigado por visitar meu perfil!
 
 ⭐ Fique à vontade para explorar os projetos e acompanhar minha jornada de aprendizado!
